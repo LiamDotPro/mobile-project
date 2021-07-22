@@ -34,17 +34,18 @@ Screen 2
 You are required to present the user with an asset view list which displays the following:
 
 - The cryptocurrency name
-- It's 24h change
 - It's current price
-- It's USD Market Identifier
 
-For this part of the assignment we expect you to use https://coinmarketcap.com/api/ free tier of data, and we should be able
-to configure the project to use our own key to see this data. We've attached example 2 here which should be used as inspiration, don't worry
-we're not expecting to see something as well put together and styled as the example, but it gives you and idea. 
+For this part of the assignment we expect you to use https://docs.bitvavo.com/#tag/General/paths/~1markets/get and https://docs.bitvavo.com/#tag/Subscriptions/paths/~1subscribeTicker/post Both of these use websockets and can be used to display the latest price in realtime. We've attached example 2 here which should be used as inspiration, don't worry
+we're not expecting to see something as well put together and styled as the example, but it gives you an idea. 
 
 Optional:
 
 - Asset icons (you can use the ones returned from the coinmarketcap api)
+- Change
+- Market Identifier
+
+The assignment should take no longer than three hours to complete without optional steps, though feel free to take as much time as you need to finish it.
 
 If at any point during this assignment something is unclear or you get stuck please feel free to reach out and we will try our best to help you figure it out, good luck!
 
