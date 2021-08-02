@@ -36,7 +36,7 @@ You are required to present the user with an asset view list which displays the 
 - The cryptocurrency name
 - It's current price
 
-For this part of the assignment we expect you to use https://docs.bitvavo.com/#tag/General/paths/~1markets/get and https://docs.bitvavo.com/#tag/Subscriptions/paths/~1subscribeTicker/post Both of these use websockets and can be used to display the latest price in realtime. We've attached example 2 here which should be used as inspiration, don't worry
+For this part of the assignment we expect you to use https://docs.bitvavo.com/#tag/General/paths/~1markets/get, https://docs.bitvavo.com/#tag/General/paths/~1assets/get and https://docs.bitvavo.com/#tag/Subscriptions/paths/~1subscribeTicker/post Both of these use websockets and can be used to display the latest price in realtime. We've attached example 2 here which should be used as inspiration, don't worry
 we're not expecting to see something as well put together and styled as the example, but it gives you an idea. 
 
 Optional:
